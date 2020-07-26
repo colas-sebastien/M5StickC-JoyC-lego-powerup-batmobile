@@ -1,9 +1,6 @@
 /*
- * @Author: Sorzn
- * @Date: 2019-11-22 14:48:10
- * @LastEditTime: 2019-11-22 15:45:27
- * @Description: M5Stack project
- * @FilePath: /M5StickC/examples/Hat/JoyC/JoyC.ino
+ * @Author: Sébastien Colas (based on the example code of sorzn)
+ * @Date: 2020-07-26 
  */
 
 #include <PoweredUpHub.h>
