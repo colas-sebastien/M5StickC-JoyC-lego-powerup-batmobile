@@ -41,7 +41,7 @@ typedef enum Color
 ```
 
 ## Video
-[![Video](images/video.png)](https://raw.githubusercontent.com/colas-sebastien/M5StickC-JoyC-lego-powerup-batmobile/master/videos/batmobile.mp4)
+[![Video](images/video.jpg)](https://raw.githubusercontent.com/colas-sebastien/M5StickC-JoyC-lego-powerup-batmobile/master/videos/batmobile.mp4)
 
 ## Reference
 - [The Batmobile on Mecabricks](https://mecabricks.com/en/models/WRaZLqdAjpZ)
